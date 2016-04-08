@@ -99,7 +99,7 @@ ul {list-style: none;
 .operatbuttn {
 	width: 53px;
     height: 57px;
-	background: #759cd8;
+	background: red;
 	border-radius: 15px;
 	margin: 2px;
 	font-size: 25px;
